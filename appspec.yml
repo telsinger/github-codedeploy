@@ -10,11 +10,7 @@ permissions:
     pattern: index.html
     owner: apache
     group: apache
-<<<<<<< HEAD
     mode: 644 
-=======
-    mode: 644
->>>>>>> 9f022871cfe034b9a50273de737ce5786c711537
     type:
       - file
 
